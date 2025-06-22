@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "gemini",
+      "invocationName": "asistente inteligente",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
