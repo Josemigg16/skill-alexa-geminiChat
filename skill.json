@@ -32,7 +32,8 @@
       "isAvailableWorldwide": true,
       "locales": {
         "es-ES": {
-          "name": "geminiChat"
+          "name": "geminiChat",
+          "invocationName": "gemini"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
