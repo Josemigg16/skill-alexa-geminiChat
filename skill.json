@@ -33,7 +33,6 @@
       "locales": {
         "es-ES": {
           "name": "geminiChat",
-          "invocationName": "gemini"
         }
       },
       "testingInstructions": "Sample Testing Instructions."
