@@ -27,11 +27,13 @@
               "type": "AMAZON.SearchQuery"
             }
           ],
-          "samples": [
-            "{query}",
-            "quiero preguntar {query}",
+           "samples": [
+            "quiero saber sobre {query}",
             "háblame sobre {query}",
-            "puedes decirme sobre {query}"
+            "dime algo sobre {query}",
+            "puedes decirme qué es {query}",
+            "explícame {query}",
+            "¿qué sabes sobre {query}?"
           ]
         }
       ],
