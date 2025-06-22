@@ -31,9 +31,9 @@
             "quiero saber sobre {query}",
             "háblame sobre {query}",
             "dime algo sobre {query}",
-            "puedes decirme qué es {query}",
-            "explícame {query}",
-            "¿qué sabes sobre {query}?"
+            "puedes decirme que es {query}",
+            "explicame {query}",
+            "que sabes sobre {query}"
           ]
         }
       ],
